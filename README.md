@@ -55,9 +55,7 @@ roboflow:
   <img src="results\result.gif" height="50%" width="50%"
         style="object-fit:contain"
     />
-## License
 
-MIT License
 
 ## Acknowledgments
 
