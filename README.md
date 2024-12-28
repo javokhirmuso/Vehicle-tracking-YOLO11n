@@ -44,7 +44,7 @@ nc: 2
 names: ['car', 'truck']
 
 roboflow:
-  workspace: my-projects-ons8w
+ 
   project: object-tracking-and-detection-mkhw4
   version: 1
   license: MIT
