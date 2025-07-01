@@ -52,7 +52,7 @@ roboflow:
 ```
 ## Results
 
-  <img src="results\result.gif" height="50%" width="50%"
+  <img src="results\mining.gif" height="50%" width="50%"
         style="object-fit:contain"
     />
 
